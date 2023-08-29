@@ -1,8 +1,8 @@
 ### Hi, I'm Ikram 👋
 
-- 🔭 I’m currently studing in Innopolis university.
+- 🎓 I’m currently studing at Innopolis University.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [@itoqsky](https://t.me/itoqsky).
+- 📫 How to reach: [@itoqsky](https://t.me/itoqsky).
 
 ### [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itoqsky&layout=compact)](https://github.com/r-mol/github-readme-stats) 
 
@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 
 **Languages:**   
-### 🇰🇿 🇷🇺 🇬🇧 🇹🇷 🇯🇵 🇰🇷 
+### 🇰🇿 🇬🇧 🇷🇺 🇹🇷  
 <!--
 **itoqsky/itoqsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
