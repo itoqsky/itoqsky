@@ -4,8 +4,6 @@
 - 💬 Ask me about anything.
 - 📫 How to reach: [@itoqsky](https://t.me/itoqsky).
 
-### [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itoqsky&layout=compact)](https://github.com/r-mol/github-readme-stats) 
-
 **Programming skills:**  
 
 ![](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -18,6 +16,8 @@
 
 **Languages:**   
 ### 🇰🇿 🇷🇺 🇬🇧 🇹🇷  
+
+### [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itoqsky&layout=compact)](https://github.com/r-mol/github-readme-stats) 
 <!--
 **itoqsky/itoqsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
