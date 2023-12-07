@@ -1,4 +1,4 @@
-### Hi 👋, I'm Ikram, and I am a Computer Science student at Innopolis unviersity. My interests are:
+### Hi 👋, I'm Ikram, and I am a CS student at Innopolis unviersity. My interests are:
 - Open-source
 - Networking, p2p
 - Sports programming
