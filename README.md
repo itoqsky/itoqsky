@@ -1,8 +1,11 @@
-### Hi, I'm Ikram 👋
-
-- 🎓 I’m currently studing at Innopolis University.
-- 💬 Ask me about anything.
+### Hi 👋, I'm Ikram, and I am a Computer science student at Innopolis unviersity. My interests are:
+- Open-source
+- Networking, p2p
+- Sports programming
+- Cyber Security
+- Web development
 - 📫 How to reach: [@itoqsky](https://t.me/itoqsky).
+
 
 **Programming skills:**  
 
