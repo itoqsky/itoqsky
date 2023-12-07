@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Ikram 👋</h2>
-<h3 align="center">I am CS student at Innopolis University</h3>
+<h3 align="center">I am a senior CS student at Innopolis University</h3>
 
 ### My interests are:
 - Open-source
