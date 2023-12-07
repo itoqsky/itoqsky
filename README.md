@@ -1,11 +1,12 @@
-### Hi 👋, I'm Ikram, and I am a CS student at Innopolis Unviersity. My interests are:
+<h2 align="center">Hi, I'm Ikram 👋</h2>
+<h3 align="center">I am CS student at Innopolis University</h3>
+
+### My interests are:
 - Open-source
 - Networking, p2p
 - Sports programming
 - Cyber Security
 - Web development
-- 📫 How to reach: [@itoqsky](https://t.me/itoqsky).
-
 
 **Programming skills:**  
 
@@ -18,9 +19,10 @@
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 
 **Languages:**   
-### 🇰🇿 🇷🇺 🇬🇧 🇹🇷  
+### 🇰🇿 🇷🇺 🇬🇧
 
 ### [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itoqsky&layout=compact)](https://github.com/r-mol/github-readme-stats) 
+### 📫 How to reach: [ikram.kamat.04@gmail.com](mailto:ikram.kamat.04@gmail.com).
 <!--
 **itoqsky/itoqsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
