@@ -21,6 +21,8 @@
 **Languages:**   
 ### 🇰🇿 🇷🇺 🇬🇧
 
+### ![Ikram Kamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=itoqsky&show_icons=true)
+
 ### [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itoqsky&layout=compact)](https://github.com/r-mol/github-readme-stats) 
 ### 📫 How to reach: [ikram.kamat.04@gmail.com](mailto:ikram.kamat.04@gmail.com).
 <!--
